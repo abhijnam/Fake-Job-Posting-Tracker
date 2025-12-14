@@ -61,7 +61,7 @@ pip install -r requirements.txt
 yarn dev
 
 # Or start individually:
-yarn start:frontend  # Frontend on http://localhost:5173
+yarn start:frontend  # Frontend on http://localhost:3000
 yarn start:backend   # Backend on http://127.0.0.1:8000
 ```
 
